@@ -1,0 +1,40 @@
+Aug 19, 2019 1:51:05 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 20, 2019 12:31:10 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 20, 2019 12:37:30 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 22, 2019 2:18:21 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 22, 2019 2:18:58 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 23, 2019 10:01:47 AM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 23, 2019 10:02:31 AM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 23, 2019 10:04:01 AM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 23, 2019 1:05:14 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 23, 2019 1:06:33 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 23, 2019 1:16:03 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 23, 2019 1:58:25 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 23, 2019 1:58:37 PM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 27, 2019 8:47:43 AM Reportportal.reportportal.MyTest testMySimpleTest
+INFO: Passed
+Aug 27, 2019 10:36:19 AM Reportportal.reportportal.MyTest testMySimpleTest2
+INFO: Failed
+Aug 27, 2019 10:36:39 AM Reportportal.reportportal.MyTest testMySimpleTest1
+INFO: Failed
+Aug 27, 2019 10:36:39 AM Reportportal.reportportal.MyTest testMySimpleTest2
+INFO: Failed
+Aug 27, 2019 11:27:55 AM Reportportal.reportportal.MyTest testMySimpleTest2
+INFO: Failed
+Aug 27, 2019 11:28:25 AM Reportportal.reportportal.MyTest testMySimpleTest2
+INFO: Failed
+Aug 27, 2019 11:38:23 AM Reportportal.reportportal.MyTest testMySimpleTest2
+INFO: Failed
